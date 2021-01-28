@@ -1,2 +1,3 @@
-# report-issues-about-the-app
-Public space for you to tell us what is NOT WORKING in our software like mistakes, bugs, glitches etc.
+## There is no code here
+
+Go to [issues](https://github.com/speakworldlanguages/report-issues-about-the-app/issues) to post your report.
